@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72d194e8-4e84-41ec-95ec-f332875c5880" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoscale/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoscale/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoscale/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoscale/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algoscale/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/templates/assignment/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/templates/assignment/user_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/registration/signup.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fmWdpAPOkYL1sEzuxwiIZtOZAN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Documents\algoscale" />
+      <recent name="C:\Users\DELL\Documents\algoscale\algoscale\templates" />
+      <recent name="C:\Users\DELL\Documents\algoscale\assignment\templates\assignment" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72d194e8-4e84-41ec-95ec-f332875c5880" name="Default Changelist" comment="" />
+      <created>1596823837566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596823837566</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596872085437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1596872085437" />
+    <state x="389" y="97" width="587" height="534" key="find.popup" timestamp="1596832107139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="97" width="587" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1596832107139" />
+  </component>
+</project>

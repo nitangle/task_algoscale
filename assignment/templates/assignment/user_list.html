@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>User list</h1>
+{% if user_list %}
+<ul>
+    {%for user in user_list %}
+    <li>
+        {{user.username}} ---- {{user.first_name}} {{user.last_name}}
+        Email - {{user.email}}
+        <form action="{% url 'delete_view' pk=user.id %}" method="POST">
+            {% csrf_token %}
+            <input class="btn btn-default" type="submit" value="Delete?">
+
+        </form>
+    </li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>There are no users with us currently.</p>
+{% endif %}
+
+{% endblock %}
